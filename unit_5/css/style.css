@@ -1,0 +1,65 @@
+
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+  	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+.wrapper {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#about {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#one{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+.picture{
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+}
+.description{
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+
+}
+body {
+
+    background-color: black;
+}
+
+h1 {
+	text-align: center;
+    font-family: 'Mystery Quest', cursive; 
+  
+}
+
+h1, p {
+    color: pink;
+    text-align: center;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
